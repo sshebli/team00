@@ -2,21 +2,10 @@
 
 This application was generated using JHipster 8.7.3 for the team project 2024-2025 module at the university of Birmingham.
 
-# Team X
+# Team 74
 
-TODO:
+   - Shahad Al Shebli sma308@student.bham.ac.uk 
 
-1. Add your team number above (replace X)
-
-2. Add your name below:
-
-   - Alice S. example@student.bham.ac.uk
-   - Bob S. example@student.bham.ac.uk
-   - <!-- this is a comment: delete this (and Alice and Bob), add your name and email  -->
-
-3. Modify [gdpr-policy.component.html](src/main/webapp/app/gdpr-policy/gdpr-policy.component.html) to add your team number (replace X) and team members to the contact section.
-
-<!-- this is a comment: delete lines TODO: and 1. 2. 3. once done... -->
 
 # Required software
 
